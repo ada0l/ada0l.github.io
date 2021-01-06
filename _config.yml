@@ -1,0 +1,13 @@
+title: Your awesome title
+email: your-email@example.com
+description: >-
+     I am interested in information technology. Here I write any stuff.
+baseurl: "/"
+url: ""
+github:  ada0l
+# Build settings
+sass:
+    sass_dir: _sass
+    style: compressed
+plugins:
+  - jekyll-feed
